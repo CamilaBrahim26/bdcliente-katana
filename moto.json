@@ -1,0 +1,49 @@
+{
+ 
+  "usuarios": [
+    {
+      "name": "camila ayelen",
+      "lastname": "brahim",
+      "email": "camila.brahim@alu.frt.utn.edu.ar",
+      "password": "camila123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "Lautaro Emanuel ",
+      "lastname": "Bravo",
+      "email": "lauty36@gmail.com",
+      "password": "lautaro2024",
+      "role": "admin",
+      "id": 2
+    }
+  ],
+  "motos": [
+    {
+      "nombreCliente": "Carlos Bravo",
+      "fechaIngreso": "2004-04-26",
+      "status": false,
+      "spotLight": false,
+      "id": 1,
+      "telefono": "3816979681"
+    },
+    {
+      "fechaIngreso": "2024-04-10",
+      "nombreCliente": "Camila Brahim",
+      "telefono": "3816979681",
+      "id": 2
+    },
+    {
+      "fechaIngreso": "2024-04-17",
+      "nombreCliente": "Bravo Lautaro",
+      "telefono": "3816979681",
+      "id": 3
+    },
+    {
+      "fechaIngreso": "2024-04-13",
+      "nombreCliente": "Elida Recalde",
+      "telefono": "549381654327",
+      "id": 4
+    }
+  ]
+}
